@@ -1,4 +1,4 @@
-package com.iscoding.product.product.product_service.webclient;
+package com.iscoding.product.product.webclient;
 
 
 import org.springframework.context.annotation.Bean;

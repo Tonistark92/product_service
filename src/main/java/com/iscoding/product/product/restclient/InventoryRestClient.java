@@ -1,4 +1,4 @@
-package com.iscoding.product.product.product_service.restclient;
+package com.iscoding.product.product.restclient;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

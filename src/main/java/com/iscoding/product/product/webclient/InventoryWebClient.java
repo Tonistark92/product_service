@@ -1,4 +1,4 @@
-package com.iscoding.product.product.product_service.webclient;
+package com.iscoding.product.product.webclient;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
